@@ -1,1 +1,1 @@
-# https://ziweifan177.github.io is hosting my projects.
+- https://ziweifan177.github.io is hosting my 'pilot' projects.
